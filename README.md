@@ -1,9 +1,12 @@
-# Gift-Giving-ApplicationThe project has the following Classes:
+# Gift-Giving-Application
+
+The project has the following Classes:
 • JSONUtil
 • Product
 • ProductDetails.
 • ProductCalculate • FileDownload
 • ZapposMain
+
 Product:
 The Product class has all the keys, which are present in the API file from the key given in the mail. The result is a list because it has all the data for each product like productId, productName etc. It has getters and setters method defined for each.
 ProductDetails
